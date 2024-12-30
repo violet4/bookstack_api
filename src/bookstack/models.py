@@ -8,7 +8,7 @@ import inflection
 import requests
 from requests_ratelimiter import LimiterSession
 
-API_PATH = 'api/docs.json/'
+API_PATH = 'api/docs.json'
 
 
 class BookStack:
